@@ -602,4 +602,4 @@ kubectl rollout restart deploy nginx-deployment
 
 This will terminate the running pod and spin up a new one.
 
-[Link to next project]()
+[Link to next project](https://github.com/MayorFaj/Building-EKS-with0-Terraform-Deploying-Packaging-App-with-Helm_P24.git)
