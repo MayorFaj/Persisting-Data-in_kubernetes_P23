@@ -151,7 +151,7 @@ The information is written in the labels section of the descibe command.
 
 5. Copy the VolumeID
 
-[IMAGE-2](./Images/image-2.png)
+![IMAGE-2](./Images/image-2.png)
 
 6. Update the deployment configuration with the volume spec.
 
